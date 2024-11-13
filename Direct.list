@@ -1,17 +1,21 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+DOMAIN,v4.plex.tv
 
 # MyList
 # 域名后缀匹配
+DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN,v4.plex.tv
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,plex.direct
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,jklqwe123
+DOMAIN-KEYWORD,lzw29
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
