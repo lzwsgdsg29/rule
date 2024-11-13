@@ -1,8 +1,8 @@
 # 代理补充列表
-DOMAIN-downloads.plex.tv
-DOMAIN-metadata-static.plex.tv
-DOMAIN-metadata.provider.plex.tv
-DOMAIN-meta.plex.tv
+DOMAIN,downloads.plex.tv
+DOMAIN,metadata-static.plex.tv
+DOMAIN,metadata.provider.plex.tv
+DOMAIN,meta.plex.tv
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
