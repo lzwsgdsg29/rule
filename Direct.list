@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,chinasoftbank.com
 DOMAIN-KEYWORD,jklqwe123
 DOMAIN-KEYWORD,lzw29
 DOMAIN-KEYWORD,sublink
-DOMAIN-KEYWORD,m-team
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
