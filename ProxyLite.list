@@ -3,6 +3,11 @@ DOMAIN,downloads.plex.tv
 DOMAIN,metadata-static.plex.tv
 DOMAIN,metadata.provider.plex.tv
 DOMAIN,meta.plex.tv
+DOMAIN,docker.com
+DOMAIN,hub.docker.com
+DOMAIN,registry-1.docker.io
+DOMAIN,index.docker.io
+DOMAIN,registry.hub.docker.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
