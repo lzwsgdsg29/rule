@@ -13,6 +13,7 @@ DOMAIN,registry.hub.docker.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
