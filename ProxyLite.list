@@ -4,6 +4,7 @@ DOMAIN,metadata-static.plex.tv
 DOMAIN,metadata.provider.plex.tv
 DOMAIN,meta.plex.tv
 DOMAIN,docker.com
+DOMAIN,docker.io
 DOMAIN,hub.docker.com
 DOMAIN,registry-1.docker.io
 DOMAIN,index.docker.io
