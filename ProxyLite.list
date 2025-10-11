@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
 # 代理补充列表
 DOMAIN,downloads.plex.tv
 DOMAIN,metadata-static.plex.tv
