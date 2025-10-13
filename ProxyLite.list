@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,subscribe.shenlong123.top
 # 代理补充列表
 DOMAIN,downloads.plex.tv
 DOMAIN,metadata-static.plex.tv
@@ -11,6 +12,7 @@ DOMAIN,hub.docker.com
 DOMAIN,registry-1.docker.io
 DOMAIN,index.docker.io
 DOMAIN,registry.hub.docker.com
+DOMAIN,subscribe.shenlong123.top
 
 # 域名后缀匹配
 DOMAIN,d1q6f0aelx0por.cloudfront.net
