@@ -1,6 +1,7 @@
 SRC-PORT,8085,DIRECT
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 DOMAIN,v4.plex.tv
+DOMAIN,slm.letbear.club
 
 # MyList
 # 域名后缀匹配
@@ -17,6 +18,7 @@ DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,chinasoftbank.com
 DOMAIN-SUFFIX,lzw29.us.kg
 DOMAIN-SUFFIX,cmdns.xyz
+DOMAIN-SUFFIX,letbear.club
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,m-team
