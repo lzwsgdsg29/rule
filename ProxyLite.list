@@ -31,6 +31,7 @@ DOMAIN,registry-1.docker.io
 DOMAIN,index.docker.io
 DOMAIN,registry.hub.docker.com
 DOMAIN,subscribe.shenlong123.top
+DOMAIN,live.ottiptv.cc
 
 # 域名后缀匹配
 DOMAIN,d1q6f0aelx0por.cloudfront.net
@@ -44,11 +45,11 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,ottiptv.cc
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,shenlong123
+DOMAIN-KEYWORD,ottiptv
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
